@@ -273,3 +273,263 @@ position: relative;
     width: 100%;
     position: absolute;    
 }
+.service-sec {
+    width: 100%;
+    padding-top: 100px;
+    background-color: #232a34;
+    padding-bottom: 80px;
+    position: relative;
+}
+.container {
+    width: 90%;
+    padding: 0px 15px;
+    margin: 0 auto;
+}
+.our-about {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+}
+.ser {
+    color: white;
+    font-size: 36px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+.line {
+    text-align: center;
+    width: 25px;
+    height: 3px;
+    background-color: #d73e4d;
+    margin-top: 10px;
+    margin-left: -12px;
+    left: 50%;
+    position: absolute;
+}
+.ser-pera {
+    font-size: 16px;
+    line-height: 26px;
+    margin: 50px auto 0px;
+    color: white;
+}
+.common-cont {
+    width: 100%;
+    overflow: auto;
+    margin-top: 50px;
+}
+.ser-data {
+    width: 33.33%;
+    padding: 25px 15px 0px;
+    float: left;
+}
+.ser-inner {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 110px 23px 65px;
+    border: 1px solid #808489;
+}
+.ser-logo-hide {
+    /* position: absolute; */
+    /* top: 50%; */
+    width: 100%;
+}
+.ser-logo {
+    font-size: 48px;
+    color: #808489;
+    width: 80px;
+    margin: 0 auto;
+    background-color: #232a34;
+}
+.fas {
+    font-weight: 900;
+}
+.web-ser {
+    font-size: 18px;
+}
+.web-de {
+    color: #808489;
+    text-transform: capitalize;
+    margin-top: 33px;
+    display: inline-block;
+    text-decoration: none;
+}
+.about-sec {
+    width: 100%;
+    background-color: white;
+    padding-top: 100px;
+}
+.about-h2 {
+    color: #292929;
+    font-size: 36px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+.about-pera {
+    font-size: 16px;
+    line-height: 26px;
+    margin: 50px auto 0px;
+    color: #6f6f6f;
+    /* text-align: center; */
+}
+.pro-list {
+    text-align: center;
+    margin: 34px 0px 40px 0px;
+    list-style: none;
+}
+.pro-list-items {
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 700;
+    margin: 15px 10px 0px;
+    padding: 0px 8px;
+}
+.common-cont {
+    width: 100%;
+    overflow: auto;
+    margin-top: 50px;
+}
+.list-one {
+    border-bottom: 1px solid #d73e4d;
+}
+.pro-anchor {
+    display: inline-block;
+    text-decoration: none;
+    color: #292929;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.pic-pro {
+    width: 33.33%;
+    padding: 0px 15px;
+    margin-bottom: 32px;
+    float: left;
+}
+.pic {
+    width: 100%;
+}
+.cre-section {
+    background-image: url(../image/back.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-top: 70px;
+    width: 100%;
+}
+.cre-work {
+    text-align: center;
+    padding: 134px 0px 137px;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+.cre-clr {
+    color: #d73e4d;
+}
+.cre-together {
+    width: 200px;
+    line-height: 45px;
+    color: white;
+    text-transform: uppercase;
+    display: inline-block;
+    text-decoration: none;
+    font-weight: 700;
+    border: 1px solid #d73e4d;
+}
+.cre-section .cre-work h3 {
+    color: white;
+    margin-bottom: 25px;
+    font-size: 28px;
+}
+.team-member {
+    width: 33.33%;
+    float: left;
+    padding: 0px 15px;
+    margin-bottom: 30px;
+}
+.team-pic-mem {
+    background-color: #e6e6e6;
+}
+.team-pic {
+    width: 100%;
+    overflow: hidden;
+}
+.name-member {
+    text-align: center;
+}
+.name-txt {
+    color: #696f78;
+    /* text-transform: capitalize; */
+    font-size: 18px;
+    padding-top: 12px;
+    line-height: 1.1;
+}
+.name-web {
+    color: #373a3f;
+    margin: 5px 0 8px;
+}
+.skill-section {
+    width: 100%;
+    background-color: #232a34;
+    margin-top: 70px;
+}
+.skill-cont {
+    width: 100%;
+    overflow: auto;
+}
+.skill-pic {
+    width: 50%;
+    float: left;
+    padding: 0px 15px;
+}
+.skill-per {
+    margin: 125px 0px 0px;
+    width: 100%;
+    position: relative;
+}
+.ratio-per {
+    background-color: white;
+    height: 30px;
+    width: 100%;
+    margin: 0px 0px 38px;
+    position: relative;
+}
+.skill-text {
+    position: absolute;
+    top: -29px;
+    left: 0;
+}
+.skill-txt-code {
+    font-weight: 700;
+    font-size: 15px;
+    color: white;
+    margin-bottom: 15px;
+}
+.per-red {
+    width: 89%;
+}
+
+.color-red {
+    height: 100%;
+    background-color: #d73e4d;
+}
+.per-txt {
+    font-size: 14px;
+    font-weight: 700;
+    color: white;
+    position: absolute;
+    top: -30px;
+    left: 90%;
+}
+.per-red2 {
+    width: 58%;
+}
+.per-red3 {
+    width: 49%;
+}
+.per-red4 {
+    width: 76%;
+}
+.per-red5 {
+    width: 64%;
+}
